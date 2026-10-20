@@ -118,3 +118,6 @@ oilops360/
 │   └── assets.js
 └── images/
     └── oilfield.svg
+## License
+
+[MIT](LICENSE)
